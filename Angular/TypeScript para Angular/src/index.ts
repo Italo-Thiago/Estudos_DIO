@@ -150,7 +150,7 @@ protected (Somente a classe e subclasses consegues enxergar)
 //   }
 // }
 
-// // Character: superclass
+// Character: superclass
 // // Magician: subclass
 // class Magician extends Character {
 //   magicPoints: number;
@@ -171,11 +171,68 @@ protected (Somente a classe e subclasses consegues enxergar)
 // console.log(p2);
 
 // Generics, e uma forma de deixar em aberto o tipo de determinada função e passar posteriormente via parâmetro.
-function concatArray<T>(...itens: T[]): T[]{
-  return new Array().concat(...itens);
-}; 
+// function concatArray<T>(...itens: T[]): T[]{
+//   return new Array().concat(...itens);
+// }; 
 
-const numArray = concatArray<number[]>([1,5], [3]);
-const stgArray = concatArray<string[]>(["Nemesis", "Doctor X"], ["Resident Evil"]);
-console.log(numArray);
-console.log(stgArray);
+// const numArray = concatArray<number[]>([1,5], [3]);
+// const stgArray = concatArray<string[]>(["Nemesis", "Doctor X"], ["Resident Evil"]);
+// console.log(numArray);
+// console.log(stgArray);
+
+// TS Node Dev
+
+// let dado: string = "Gostoso";
+// console.log(dado);
+
+// Decorators, e como um hábito ao ter o gatilho você executa uma ação. 
+// Class decorator, e chamado sempre que você chama uma classe.
+
+// function ExibirNome(target: any) {
+//   console.log(target);
+// }
+
+// @ExibirNome
+// class Funcionario{}
+
+// @ExibirNome
+// class Quincas{}
+
+// Attribute decorator.
+
+function apiVersion(version: string) {
+  return (target: any) => {
+    Object.assign(target.prototype, {__version: version, __name: "Italo"});
+  };
+}
+
+function minLenght(length: number) {
+  return (target: any, key: string) => {
+    let _valeu = target[key];
+
+    const getter = () => "[play]" + _valeu;
+    const setter = (value: string) => {
+      if (value.length < length) {
+        throw new Error (`Tamanho menor do que ${length}`);
+      } else {
+        _valeu = value;
+      }
+    };
+
+    Object.defineProperty(target, key, {
+      get: getter,
+      set: setter
+    });
+  }
+}
+class Api {
+  @minLenght(3)
+  name: string
+
+  constructor(name:string){
+    this.name = name;
+  }
+}
+
+const api = new Api("us");
+console.log(api.name)
