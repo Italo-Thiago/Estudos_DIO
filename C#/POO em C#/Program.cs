@@ -1,7 +1,15 @@
 ﻿using POO_em_C_.models;
 
-Pessoa p1 = new Pessoa();
+Pessoa p1 = new Pessoa(nome:"Italo", sobrenome:"Thiago");
 
-p1.Nome = "Italo";
-p1.Idade = 20;
-p1.Apresentar();
+
+Pessoa p2 = new Pessoa(nome:"Fulano", sobrenome:"Silva");
+
+
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "Inglês";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();

@@ -1,0 +1,14 @@
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\bin\Debug\net7.0\POO em C#.exe
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\bin\Debug\net7.0\POO em C#.deps.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\bin\Debug\net7.0\POO em C#.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\bin\Debug\net7.0\POO em C#.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\bin\Debug\net7.0\POO em C#.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\refint\POO em C#.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\ref\POO em C#.dll
