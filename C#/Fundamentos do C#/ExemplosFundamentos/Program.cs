@@ -1,4 +1,6 @@
-﻿List <string> listaString = new List<string>();
+﻿
+
+List <string> listaString = new List<string>();
 
 listaString.Add("SP");
 listaString.Add("BA");
