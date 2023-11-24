@@ -12,3 +12,4 @@ C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\refint\P
 C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.pdb
 C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.genruntimeconfig.cache
 C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\ref\POO em C#.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\obj\Debug\net7.0\POO em C#.sourcelink.json

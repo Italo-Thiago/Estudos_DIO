@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OsXO6l8c1a2A+L21vSnCKx1SeyPfmdm8WNUN0X6ljYwEHgIjV03pUpD2dXxCCbxUbZVtIfoe9+y4zXB3cb0r2Q==",
+  "dgSpecHash": "LW32SzxEmbLQYRjQx8SmQtYc/jhg6YzgV7ktViDN9cb/DkcICCgBsInDF4E5aZQsnAo4tJvHQlPtxOXY3LjLQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\C#.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

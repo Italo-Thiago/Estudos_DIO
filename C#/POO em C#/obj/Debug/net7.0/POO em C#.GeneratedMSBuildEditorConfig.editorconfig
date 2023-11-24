@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = POO_em_C_
 build_property.ProjectDir = C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\POO em C#\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

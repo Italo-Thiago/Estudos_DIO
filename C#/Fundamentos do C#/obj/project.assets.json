@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\C#.csproj",
+      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
       "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\obj\\",
+      "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,12 +54,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

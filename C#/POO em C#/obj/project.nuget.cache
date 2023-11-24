@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2rnw2xlemUkKEO/LZbf5icmhlcWHP/v6y96UNUGj+g+CbPriJMaJixWN9gNXuJNDIIkiSU/GjRp1AJfQUbph2A==",
+  "dgSpecHash": "Ifa4Rs0lF7yd4Pt+sDUJ7FP4Zo9HnAF8RblR55DbvQwwfJCkmnlZtMXg6yvySoJ/8OXfn1U79CoNWOPUIwUOpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\POO em C#\\POO em C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

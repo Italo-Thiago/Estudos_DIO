@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C_
-build_property.ProjectDir = C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\
+build_property.ProjectDir = C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
