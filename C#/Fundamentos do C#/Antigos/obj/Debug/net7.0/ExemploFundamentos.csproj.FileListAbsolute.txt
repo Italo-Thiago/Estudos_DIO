@@ -1,0 +1,5 @@
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\obj\Debug\net7.0\ExemploFundamentos.sourcelink.json

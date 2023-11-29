@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\ExemploFundamentos.csproj",
+      "projectName": "ExemploFundamentos",
+      "projectPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\obj\\",
       "projectStyle": "PackageReference",

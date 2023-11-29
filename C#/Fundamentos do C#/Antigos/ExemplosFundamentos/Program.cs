@@ -1,19 +1,25 @@
-﻿
+﻿(int, string, string, decimal) tupla = (1, "Italo", "Thiago", 1.70M);
 
-List <string> listaString = new List<string>();
+Console.WriteLine($"ID: {tupla.Item1}");
+Console.WriteLine($"Nome: {tupla.Item2}");
+Console.WriteLine($"Sobrenome: {tupla.Item3}");
+Console.WriteLine($"Altura: {tupla.Item4}");
 
-listaString.Add("SP");
-listaString.Add("BA");
-listaString.Add("MG");
-listaString.Add("RJ");
 
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
-listaString.Add("SC");
+// List <string> listaString = new List<string>();
 
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
-listaString.Remove("MG");
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
 
-Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+// listaString.Add("SC");
+
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+// listaString.Remove("MG");
+
+// Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
 
 
 // Console.WriteLine("Percorrendo a lista com o FOR");

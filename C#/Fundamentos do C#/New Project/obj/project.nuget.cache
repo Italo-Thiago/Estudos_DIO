@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4G94MWjz0n57bpbzh2UhnKR+UO37fRkmRAq6+q/V5LI9sui6A0Lbs/gDlZ6JqMwYQnRF9u10/yegVwts5dYdHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\New Project\\New Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

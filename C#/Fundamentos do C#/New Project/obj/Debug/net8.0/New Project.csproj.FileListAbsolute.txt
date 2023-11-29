@@ -1,0 +1,15 @@
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\bin\Debug\net8.0\New Project.exe
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\bin\Debug\net8.0\New Project.deps.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\bin\Debug\net8.0\New Project.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\bin\Debug\net8.0\New Project.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\bin\Debug\net8.0\New Project.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\refint\New Project.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\New Project.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Fundamentos do C#\New Project\obj\Debug\net8.0\ref\New Project.dll

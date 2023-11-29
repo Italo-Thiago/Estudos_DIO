@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LW32SzxEmbLQYRjQx8SmQtYc/jhg6YzgV7ktViDN9cb/DkcICCgBsInDF4E5aZQsnAo4tJvHQlPtxOXY3LjLQw==",
+  "dgSpecHash": "1FSbjEK0b1kLdb0PmJpeNE40Qpb5TYDN2/G6mEJQ3Z6Dt3lAmEm72+/JZvkmNcC4jxL8hzRvbL1UReJ6xAqZJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\C#.csproj",
+  "projectFilePath": "C:\\Users\\italo\\Desktop\\Cursos\\Estudos_DIO\\C#\\Fundamentos do C#\\ExemploFundamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
