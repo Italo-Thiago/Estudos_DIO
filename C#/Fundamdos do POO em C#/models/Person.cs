@@ -7,6 +7,11 @@ namespace Fundamdos_do_POO_em_C_.models
 {
   public class Person
   {
+    public Person() { }
+    public Person(string name)
+    {
+      Name = name;
+    }
     public string Name { get; set; }
     public int Age { get; set; }
     public string Email { get; set; }
