@@ -1,8 +1,12 @@
-﻿using Fundamdos_do_POO_em_C_.models;
+﻿using Fundamdos_do_POO_em_C_.interfaces;
+using Fundamdos_do_POO_em_C_.models;
 using Fundamdos_do_POO_em_C_.models.CheckingAccount;
 
-Computador c = new Computador();
-Console.WriteLine(c.ToString());
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3, 9));
+
+// Computador c = new Computador();
+// Console.WriteLine(c.ToString());
 
 // Person p1 = new Person("Italo");
 // Aluno a1 = new Aluno("Thiado");
