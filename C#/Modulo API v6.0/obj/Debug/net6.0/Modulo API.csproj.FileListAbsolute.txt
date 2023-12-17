@@ -1,0 +1,33 @@
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\appsettings.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Modulo API.exe
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Modulo API.deps.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Modulo API.runtimeconfig.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Modulo API.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Modulo API.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.csproj.AssemblyReference.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.AssemblyInfoInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.AssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.csproj.CoreCompileInputs.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.sourcelink.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets\msbuild.Modulo API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets\msbuild.build.Modulo API.props
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Modulo API.props
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Modulo API.props
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\scopedcss\bundle\Modulo API.styles.css
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.csproj.CopyComplete
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\refint\Modulo API.dll
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.pdb
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\Modulo API.genruntimeconfig.cache
+C:\Users\italo\Desktop\Cursos\Estudos_DIO\C#\Modulo API\obj\Debug\net6.0\ref\Modulo API.dll

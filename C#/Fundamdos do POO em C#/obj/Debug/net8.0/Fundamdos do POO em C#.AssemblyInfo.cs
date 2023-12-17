@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fundamdos do POO em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fef897e7d3f14462cf7298393eef986d6327a8b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fundamdos do POO em C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fundamdos do POO em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
