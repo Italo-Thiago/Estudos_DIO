@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuloAPI", "ModuloAPI.csproj", "{138C2551-8C1D-423E-A335-3A9B7BBE3B0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuloAPI", "ModuloAPI.csproj", "{AE81D964-E2C9-4263-A143-2B57B1C511C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{138C2551-8C1D-423E-A335-3A9B7BBE3B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{138C2551-8C1D-423E-A335-3A9B7BBE3B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{138C2551-8C1D-423E-A335-3A9B7BBE3B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{138C2551-8C1D-423E-A335-3A9B7BBE3B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE81D964-E2C9-4263-A143-2B57B1C511C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE81D964-E2C9-4263-A143-2B57B1C511C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE81D964-E2C9-4263-A143-2B57B1C511C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE81D964-E2C9-4263-A143-2B57B1C511C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BFEE74AE-6D61-4BC3-9BD2-9891E1213001}
+		SolutionGuid = {D38B3ADE-1097-4949-9B46-46B049E83CB3}
 	EndGlobalSection
 EndGlobal
