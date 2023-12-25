@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/491faa81-2710-4724-93c3-b4cdaebff477/resourceGroups/sistemMVC/providers/Microsoft.Web/sites/dio-sistemmvc"
+}
