@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5Q+RRDihjdF9MpNEdJw9Gy3fFJQqbMehSWLJl90xBYI=",
+  "Source": "AzureWebStorageAPI",
+  "BasePath": "_content/AzureWebStorageAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

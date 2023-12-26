@@ -1,0 +1,6 @@
+@AzureWebStorageAPI_HostAddress = http://localhost:5134
+
+GET {{AzureWebStorageAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
