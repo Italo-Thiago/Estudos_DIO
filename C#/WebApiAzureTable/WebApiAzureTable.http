@@ -1,0 +1,6 @@
+@WebApiAzureTable_HostAddress = http://localhost:5171
+
+GET {{WebApiAzureTable_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
