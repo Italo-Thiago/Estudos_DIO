@@ -1,24 +1,27 @@
-import { useState, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 
 const Teste = () => {
-    const [name, setName] = useState('Italo');
+    const [age, setAge] = useState(26);
 
     const handleChangeName = () => {
-        setName(prev => prev === 'Italo' ? 'Thiago' : 'Italo')
+        setAge(prev => prev === 26 ? 32 : 26);
     }
 
-    useEffect(() => {
-        alert('renderizei')
-    }, [name]);
+    const calculo = useMemo(() => {
+        console.log('calculo', age)
+        return 10 * age; 
+    }, []);
+
+    console.log('renderizou', calculo)
 
     return (
         <div>
             <p>
-                {name}
+                {age}
             </p>
             <button onClick={handleChangeName}>Alterar</button>
         </div>
     )
 }
 
-export { Teste };
+export { Teste }
