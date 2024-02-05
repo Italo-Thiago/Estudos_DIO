@@ -1,25 +1,32 @@
-import { useState, useMemo } from 'react';
+import { useState, useCallback} from 'react';
 
 const Teste = () => {
+    const [name, setName] = useState('Italo');
     const [age, setAge] = useState(26);
 
-    const handleChangeName = () => {
+    const handleChangeName = useCallback(() => {
+        console.log('alterou nome')
+        setName(prev => prev === 'Italo' ? 'Thiago' : 'Italo');
+    }, [])
+
+    const handleChangeAge = useCallback(() => {
+        const newAge = 10 * age;
+        console.log('age atual', age, newAge);
         setAge(prev => prev === 26 ? 32 : 26);
-    }
-
-    const calculo = useMemo(() => {
-        console.log('calculo', age)
-        return 10 * age; 
-    }, []);
-
-    console.log('renderizou', calculo)
+    }, [age])
 
     return (
         <div>
             <p>
-                {age}
+                Idade: {age}
             </p>
-            <button onClick={handleChangeName}>Alterar</button>
+            <p>
+                Nome: {name}
+            </p>
+            <br />
+            <button onClick={handleChangeName}>Alterar nome</button>
+            <br />
+            <button onClick={handleChangeAge}>Alterar idade</button>
         </div>
     )
 }
