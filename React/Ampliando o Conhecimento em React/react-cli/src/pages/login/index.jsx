@@ -1,6 +1,6 @@
 import { MdLock, MdEmail } from "react-icons/md";
-
 import { useNavigate } from "react-router-dom";
+import { useForm } from "react-hook-form";
 
 import { Button } from '../../components/Button/';
 import { Header } from '../../components/Header/';
@@ -16,6 +16,9 @@ const Login = () => {
         navigate('/feed');
     }
 
+    const { control, handleSubmit, formState: { errors, isValid} } = useForm();
+    const onSubmit = data => console.log(data);
+
     return (<>
         <Header />
         <Container>
@@ -28,10 +31,10 @@ const Login = () => {
                 <Wrapper>
                     <TitleLogin>Faça seu cadastro</TitleLogin>
                     <SubtitleLogin>Faça seu login e Make The Change.</SubtitleLogin>
-                    <form>
-                        <Input placeholder="E-mail" leftIcon={<MdEmail />}/>
-                        <Input placeholder="Senha" type="password" leftIcon={<MdLock />}/>
-                        <Button title="Entrar" variant='secondary' onClick={handleClickSignIn} type="button"/>
+                    <form onSubmit={handleSubmit(onSubmit)}>
+                        <Input name="email" control={control} placeholder="E-mail" leftIcon={<MdEmail />}/>
+                        <Input name="password" control={control} placeholder="Senha" type="password" leftIcon={<MdLock />}/>
+                        <Button title="Entrar" variant='secondary' type="submit"/>
                     </form>
                     <Row>
                         <ForgetText>Esqueci minha senha</ForgetText>

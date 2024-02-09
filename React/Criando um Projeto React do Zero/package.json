@@ -23,5 +23,8 @@
   "scripts": {
     "start": "webpack serve --open --hot --mode development",
     "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "react-hook-form": "^7.50.0"
   }
 }
